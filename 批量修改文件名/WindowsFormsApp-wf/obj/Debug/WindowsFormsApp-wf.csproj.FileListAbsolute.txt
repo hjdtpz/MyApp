@@ -1,0 +1,10 @@
+D:\项目合集\WindowsFormsApp-wf\WindowsFormsApp-wf\bin\Debug\WindowsFormsApp-wf.exe.config
+D:\项目合集\WindowsFormsApp-wf\WindowsFormsApp-wf\bin\Debug\WindowsFormsApp-wf.exe
+D:\项目合集\WindowsFormsApp-wf\WindowsFormsApp-wf\bin\Debug\WindowsFormsApp-wf.pdb
+D:\项目合集\WindowsFormsApp-wf\WindowsFormsApp-wf\obj\Debug\WindowsFormsApp-wf.csprojResolveAssemblyReference.cache
+D:\项目合集\WindowsFormsApp-wf\WindowsFormsApp-wf\obj\Debug\WindowsFormsApp_wf.Form1.resources
+D:\项目合集\WindowsFormsApp-wf\WindowsFormsApp-wf\obj\Debug\WindowsFormsApp_wf.Properties.Resources.resources
+D:\项目合集\WindowsFormsApp-wf\WindowsFormsApp-wf\obj\Debug\WindowsFormsApp-wf.csproj.GenerateResource.Cache
+D:\项目合集\WindowsFormsApp-wf\WindowsFormsApp-wf\obj\Debug\WindowsFormsApp-wf.csproj.CoreCompileInputs.cache
+D:\项目合集\WindowsFormsApp-wf\WindowsFormsApp-wf\obj\Debug\WindowsFormsApp-wf.exe
+D:\项目合集\WindowsFormsApp-wf\WindowsFormsApp-wf\obj\Debug\WindowsFormsApp-wf.pdb

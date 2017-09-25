@@ -1,0 +1,10 @@
+D:\项目合集\批量修改文件名\WindowsFormsApp-wf\bin\Debug\WindowsFormsApp-wf.exe.config
+D:\项目合集\批量修改文件名\WindowsFormsApp-wf\bin\Debug\WindowsFormsApp-wf.exe
+D:\项目合集\批量修改文件名\WindowsFormsApp-wf\bin\Debug\WindowsFormsApp-wf.pdb
+D:\项目合集\批量修改文件名\WindowsFormsApp-wf\obj\Debug\WindowsFormsApp_wf.Properties.Resources.resources
+D:\项目合集\批量修改文件名\WindowsFormsApp-wf\obj\Debug\批量修改文件名.csproj.GenerateResource.Cache
+D:\项目合集\批量修改文件名\WindowsFormsApp-wf\obj\Debug\批量修改文件名.csproj.CoreCompileInputs.cache
+D:\项目合集\批量修改文件名\WindowsFormsApp-wf\obj\Debug\WindowsFormsApp-wf.exe
+D:\项目合集\批量修改文件名\WindowsFormsApp-wf\obj\Debug\WindowsFormsApp-wf.pdb
+D:\项目合集\批量修改文件名\WindowsFormsApp-wf\obj\Debug\批量修改文件名.csprojResolveAssemblyReference.cache
+D:\项目合集\批量修改文件名\WindowsFormsApp-wf\obj\Debug\WindowsFormsApp_wf.myForm.resources
